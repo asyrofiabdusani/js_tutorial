@@ -3,4 +3,5 @@ Contains tutorial how to start code in javascript
 
 This diagram show how to start code in javascript
 
-![image](https://user-images.githubusercontent.com/37644705/187010918-0522faf9-f27c-4db3-92ee-c8979f3640ef.png)
+![image](https://user-images.githubusercontent.com/37644705/187010946-fa2f9dd8-1898-4984-9a63-5a5fbc317956.png)
+
